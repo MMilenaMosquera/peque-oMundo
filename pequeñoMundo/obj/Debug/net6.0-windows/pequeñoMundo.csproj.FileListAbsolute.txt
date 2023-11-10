@@ -1,0 +1,17 @@
+C:\Users\Sistema\source\repos\pequeñoMundo\pequeñoMundo\obj\Debug\net6.0-windows\pequeñoMundo.EntityCRUD.resources
+C:\Users\Sistema\source\repos\pequeñoMundo\pequeñoMundo\obj\Debug\net6.0-windows\pequeñoMundo.csproj.GenerateResource.cache
+C:\Users\Sistema\source\repos\pequeñoMundo\pequeñoMundo\obj\Debug\net6.0-windows\pequeñoMundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sistema\source\repos\pequeñoMundo\pequeñoMundo\obj\Debug\net6.0-windows\pequeñoMundo.AssemblyInfoInputs.cache
+C:\Users\Sistema\source\repos\pequeñoMundo\pequeñoMundo\obj\Debug\net6.0-windows\pequeñoMundo.AssemblyInfo.cs
+C:\Users\Sistema\source\repos\pequeñoMundo\pequeñoMundo\obj\Debug\net6.0-windows\pequeñoMundo.csproj.CoreCompileInputs.cache
+C:\Users\Sistema\source\repos\pequeñoMundo\pequeñoMundo\bin\Debug\net6.0-windows\pequeñoMundo.exe
+C:\Users\Sistema\source\repos\pequeñoMundo\pequeñoMundo\bin\Debug\net6.0-windows\pequeñoMundo.deps.json
+C:\Users\Sistema\source\repos\pequeñoMundo\pequeñoMundo\bin\Debug\net6.0-windows\pequeñoMundo.runtimeconfig.json
+C:\Users\Sistema\source\repos\pequeñoMundo\pequeñoMundo\bin\Debug\net6.0-windows\pequeñoMundo.dll
+C:\Users\Sistema\source\repos\pequeñoMundo\pequeñoMundo\bin\Debug\net6.0-windows\pequeñoMundo.pdb
+C:\Users\Sistema\source\repos\pequeñoMundo\pequeñoMundo\obj\Debug\net6.0-windows\pequeñoMundo.dll
+C:\Users\Sistema\source\repos\pequeñoMundo\pequeñoMundo\obj\Debug\net6.0-windows\refint\pequeñoMundo.dll
+C:\Users\Sistema\source\repos\pequeñoMundo\pequeñoMundo\obj\Debug\net6.0-windows\pequeñoMundo.pdb
+C:\Users\Sistema\source\repos\pequeñoMundo\pequeñoMundo\obj\Debug\net6.0-windows\pequeñoMundo.genruntimeconfig.cache
+C:\Users\Sistema\source\repos\pequeñoMundo\pequeñoMundo\obj\Debug\net6.0-windows\ref\pequeñoMundo.dll
+C:\Users\Sistema\source\repos\pequeñoMundo\pequeñoMundo\obj\Debug\net6.0-windows\pequeñoMundo.UI.Fight.resources
